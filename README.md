@@ -1,4 +1,4 @@
-# Command Line Applications in Rust
+# Command Line Applications in Rust (fork)
 
 This repo contains the CLAiR, the [Command Line Applications in Rust][clair] book.
 It is written and updated by the [Rust CLI working group][wg].
