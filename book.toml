@@ -7,7 +7,7 @@ language = "en"
 src = "src"
 
 [output.html]
-curly-quotes = true
+smart-punctuation = true
 additional-css = ["src/special-content.css"]
 git-repository-url = "https://github.com/rust-cli/book"
 site-url = "/book/"
