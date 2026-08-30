@@ -1,6 +1,6 @@
 # Command line apps in Rust 
 
-(This is a  fork by Casiano Rodriguez Leon. See the upstream repo at [https://github.com/rust-cli/book](https://github.com/rust-cli/book)).
+(This is a  fork by [Casiano Rodriguez Leon](https://github.com/crguezl). See the upstream repo at [https://github.com/rust-cli/book](https://github.com/rust-cli/book)).
 
 Rust is a statically compiled, fast language with great tooling and a rapidly growing ecosystem.
 That makes it a great fit for writing command line applications:
